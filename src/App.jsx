@@ -1,10 +1,10 @@
 import './App.css';
-import Sample from './Sample';
+import Arraysample from './Arraysample';
 
 function App() {
   return (
     <div className="App">
-      <Sample/>
+      <Arraysample/>
     </div>
   );
 }
